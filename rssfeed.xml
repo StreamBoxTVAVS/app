@@ -1,11 +1,11 @@
 <? xml version="1.0" ?>
 <rss version="2.0">
 <channel>
-<title>*YOUR BUILD NAME*</title>
+<title>*SmartTech SmartBox*</title>
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>******EDIT THIS TEXT***** </title>
+<title>******NEW UPDATE AVAILABLE***** </title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>
